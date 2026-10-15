@@ -1,16 +1,21 @@
-## Hi there 👋
+# Otávio Pinto
 
-<!--
-**otaviomics/otaviomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bioinformatics · Genomics · Microbiomes**
 
-Here are some ideas to get you started:
+Biologist with a PhD in Molecular Biology and a bioinformatics analyst at Embrapa Recursos Genéticos e Biotecnologia, Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I develop modular workflows to turn sequencing data into traceable, interpretable biological results.
+
+## Areas of work
+
+- Microbial and comparative genomics
+- Plant-associated microbiomes, metagenomics and metagenome-assembled genomes
+- Functional annotation and integration of biological databases
+- Transcriptomics and long noncoding RNA analysis
+- Sequence markers, haplotypes and genetic variation
+
+## Workflow development
+
+My work connects reproducible analysis, documented parameters and validation against known outputs. I use Python, R and shell scripting to organize analyses and support research workflows.
+
+Based in Brasília, Brazil.
